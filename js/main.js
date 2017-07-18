@@ -22,9 +22,9 @@ if (tab2.length==2) {
 }
 
 
+////////////////////////// SOUS FONCTION ///////////////////////////////
 
-
-// sous fonction
+// fonction return dos de carte
 
 function bonjour () {
   for (let y=0;y<imgAll.length;y++){
